@@ -3,7 +3,7 @@
 Projeto desenvolvido para calcular o **IMC (Índice de Massa Corporal)** e informar a classificação de acordo com a Organização Mundial da Saúde (OMS).  
 Esse repositório faz parte do aprendizado do autor na linguagem Python.
 
----
+------------------------------------------------------------------------
 
 ## 📘 O que é IMC?
 
@@ -16,7 +16,7 @@ O **IMC** é um índice usado mundialmente para identificar se uma pessoa está 
 
 É um cálculo simples, porém eficiente para avaliação inicial do estado nutricional de um adulto.
 
----
+------------------------------------------------------------------------
 
 ## 🧠 Fórmula do IMC
 
@@ -39,7 +39,7 @@ IMC = 70 / (1.75 * 1.75)
 IMC = 22.86
 ```
 
----
+------------------------------------------------------------------------
 
 ## 📊 Classificação do IMC (OMS)
 
@@ -52,7 +52,7 @@ IMC = 22.86
 | Entre 35,0 e 39,9      | Obesidade Grau II (Severa)       |
 | Maior ou igual a 40,0  | Obesidade Grau III (Grave)       |
 
----
+------------------------------------------------------------------------
 
 ## 📁 Estrutura do projeto
 
@@ -65,7 +65,7 @@ CALCULADORA_IMC/
 │── requirements.txt
 
 ```
----
+------------------------------------------------------------------------
 
 ## ▶️ Como executar o projeto
 
@@ -83,14 +83,14 @@ CALCULADORA_IMC/
    ```bash
    python calculadora_imc.py
    ```
----
+------------------------------------------------------------------------
 
 ## 🧰 Tecnologias Utilizadas
 
 - **Linguagem:** Python  
 - **Ferramentas recomendadas:** VS Code, terminal do sistema operacional
 
----
+------------------------------------------------------------------------
 
 ## ✍️ Autor
 
@@ -98,7 +98,7 @@ Desenvolvido por **[Lorran Lázaro]** 💻
 📧 E-mail: [lorranfelippe81@gmail.com]  
 🌐 GitHub: [https://github.com/lorranlazaro]
 
----
+------------------------------------------------------------------------
 
 ## 📜 Licença MIT
 
