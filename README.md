@@ -1,7 +1,6 @@
 # 🧮 Calculadora de IMC (Índice de Massa Corporal)
 
-Projeto desenvolvido para calcular o **IMC (Índice de Massa Corporal)** e informar a classificação de acordo com a Organização Mundial da Saúde (OMS).  
-Esse repositório faz parte do aprendizado do autor na linguagem Python.
+Projeto desenvolvido para calcular o **IMC (Índice de Massa Corporal)** e informar a classificação de acordo com a OMS.  
 
 ------------------------------------------------------------------------
 
@@ -14,7 +13,7 @@ O **IMC** é um índice usado mundialmente para identificar se uma pessoa está 
 - Sobrepeso
 - Algum grau de obesidade
 
-É um cálculo simples, porém eficiente para avaliação inicial do estado nutricional de um adulto.
+É um cálculo simples, porém eficiente para avaliação inicial do estado nutricional.
 
 ------------------------------------------------------------------------
 
